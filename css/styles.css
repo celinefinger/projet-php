@@ -1,0 +1,75 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 70px 0px;
+    background-color: blue;
+}
+
+.divider {
+    width: 100px;
+    height: 2px;
+    background-color: red;
+    margin: 0 auto;
+}
+
+.heading {
+    text-align: center;
+    margin: 1rem auto;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+}
+
+#contact-form {
+    font-size: 20px;
+    background: white;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+#contact-form input[type="submit"] {
+    margin: 40px auto 0;
+    display: block;
+}
+
+.button1 {
+    background-color: red;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    width: 100%;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 18px;
+    transition: all 0.3s ease-in 0s;
+}
+
+.button1:hover {
+    background-color: orange;
+}
+
+.blue {
+    color: blue;
+    font-weight: bold;
+}
+
+.form-control {
+    padding: 10px 15px;
+    font-size: 18px;
+}
+
+.comments {
+    color: red;
+    font-style: italic;
+    font-size: 18px;
+}
+
+.thank-you {
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 22px;
+    color: green;
+}
