@@ -103,7 +103,7 @@
 			<h2>Contactez-moi !</h2>
 		</div>
 		<div class="row">
-			<div class="col-lg-10 col-lg-offset-1">
+			<div class="col-lg-12 col-lg-offset-1">
 				<form id="contact-form" method="post" action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" role="form">
 					<div class="row">
 						<div class="col-md-6">
